@@ -22,3 +22,4 @@ public class ToDoList {
 	 * When the program starts, it should automatically load the last saved file into the list. 
 	 */
 }
+//Copyright © 2021 Sean Yoo//Copyright © 2021 Sean Yoo
