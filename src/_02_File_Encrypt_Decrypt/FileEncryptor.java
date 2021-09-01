@@ -63,4 +63,4 @@ public class FileEncryptor {
 			e.printStackTrace();
 		}	
 	}
-}//Copyright © 2021 Sean Yoo//Copyright © 2021 Sean Yoo
+}//Copyright © 2021 Sean Yoo//Copyright © 2021 Sean Yoo//Copyright © 2021 Sean Yoo//Copyright © 2021 Sean Yoo
